@@ -1,1 +1,2 @@
-fhirBaseUrl: ${FHIRSPARK_FHIRBASE:-http://localhost:8080/fhir}
+fhirBaseUrl: ${MGBBANON_FHIRBASE:-http://131.188.43.108:8080/fhir}
+fhirTargetUrl: ${MGBBANON_FHIRTARGET:-http://localhost:8080/fhir}
